@@ -1,6 +1,6 @@
 token= NDI0OTA3OTAwMTU1MDY4NDM0.Dw__rQ.8990pnqrlQAxGfo2thWHl0ZKOHg
-owner= 464276425847996437 
-prefix= S
-game= i Still Want You .
+owner= 436254430434951178
+prefix= M
+game= Type Mhelp
 stayinchannel=true
 songinstatus=false

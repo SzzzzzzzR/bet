@@ -1,6 +1,6 @@
 token= NDI0OTA3OTAwMTU1MDY4NDM0.Dw__rQ.8990pnqrlQAxGfo2thWHl0ZKOHg
 owner= 290819338829824000
-prefix= H
-game= Type Hhelp
+prefix= Y
+game= Type Yhelp
 stayinchannel=true
 songinstatus=false
